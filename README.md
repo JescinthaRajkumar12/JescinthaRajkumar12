@@ -2,7 +2,7 @@
 
 
 
-I'm a Full-Stack Developer and Cybersecurity Enthusiast based in London, UK.  
+I'm a Full-Stack Developer and Cybersecurity Enthusiast based in UK.  
 I love building accessible, performant, and secure web applications while exploring cloud and cybersecurity technologies.  
 
 ---
@@ -48,5 +48,8 @@ Agile, Scrum, code reviews, documentation, performance optimization, Next.js SSR
 - UX Design, Python, SQL, and AI & Security courses  
 
 ---
+## 📫 Connect with Me
+  
+- LinkedIn: https://www.linkedin.com/in/jescintha-rajkumar-5a5a201a8/
 
 
