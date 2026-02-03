@@ -33,8 +33,8 @@ Agile, Scrum, code reviews, documentation, performance optimization, Next.js SSR
 --- 
 
 **Projects**  
-- **Pickier** – Full-stack web app with React, Node.js, REST APIs, Next.js SSR, and secure coding practices.  
-- **Jeslit Book Finder** – Accessible frontend app with semantic HTML and ARIA.  
+- **Pickier** – Full-stack web app with React, Node.js, REST APIs, Redux, Mysql and secure coding practices.  
+- **Jeslit Book Finder** – Accessible frontend app with semantic HTML, CSS and javascript.  
 - **Jeslit Reviews API** – REST API with secure input validation and endpoint documentation.  
 
 ---
