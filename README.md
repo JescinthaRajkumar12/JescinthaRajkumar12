@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Jescintha Rajkumar  
 
-I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** based in London, UK.  
-I love building **accessible, performant, and secure web applications** while exploring **cloud and cybersecurity technologies**.  
+
+I'm a Full-Stack Developer and Cybersecurity Enthusiast based in London, UK.  
+I love building accessible, performant, and secure web applications while exploring cloud and cybersecurity technologies.  
 
 ---
 
