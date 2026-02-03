@@ -49,4 +49,4 @@ Agile, Scrum, code reviews, documentation, performance optimization, Next.js SSR
 
 ---
 
-> “Code securely, build inclusively, and deploy confidently.”  
+
