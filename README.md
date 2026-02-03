@@ -13,13 +13,13 @@ I love building accessible, performant, and secure web applications while explor
 HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Redux, Tailwind CSS, WCAG/ARIA accessibility  
 
 ### Backend
-Node.js, Express.js, REST APIs, GraphQL basics  
+Node.js, Express.js, REST APIs
 
 ### Databases
 SQL, MySQL, MongoDB, Cosmos DB, relational schema design  
 
 ### Testing & QA
-Jest, React Testing Library, Cypress, Postman  
+Jest, React Testing Library, Postman  
 
 ### Cloud & DevOps
 Azure, Azure DevOps, GitHub Actions (CI/CD)  
@@ -28,7 +28,7 @@ Azure, Azure DevOps, GitHub Actions (CI/CD)
 OWASP, secure coding, input validation, GVM, Kali Linux, TryHackMe, Linux administration, penetration testing  
 
 ### Practices & Methodologies
-Agile, Scrum, code reviews, documentation, performance optimization, Next.js SSR  
+Agile, Scrum, code reviews, documentation, performance optimization, SSR  
 
 --- 
 
