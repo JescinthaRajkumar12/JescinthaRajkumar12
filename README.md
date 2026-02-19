@@ -2,7 +2,7 @@
 
 
 
-I’m Jescintha Rajkumar, a Full-Stack Developer and Cybersecurity Enthusiast based in the UK. With a Master’s in Literature, I first encountered technology while researching the impact of apps like Quizlet on students’ learning, which sparked my curiosity about how software can solve real-world problems. Fascinated, I started learning Python, explored cloud technologies like Azure, and joined Code First Girls to deepen my coding skills. Today, I build accessible, performant, and secure web applications while researching cybersecurity vulnerabilities, blending creativity, analytical thinking, and technology in everything I do.
+I’m Jescintha Rajkumar, a Full-Stack Developer and Cybersecurity Analyst based in the UK. With a Master’s in Literature, I first encountered technology while researching the impact of apps like Quizlet on students’ learning, which sparked my curiosity about how software can solve real-world problems. Fascinated, I started learning Python, explored cloud technologies like Azure, and joined Code First Girls to deepen my coding skills. Today, I build accessible, performant, and secure web applications while researching cybersecurity vulnerabilities, blending creativity, analytical thinking, and technology in everything I do.
 
 From analyzing student engagement to securing cloud systems, I love bridging the gap between human learning and technology, constantly exploring how code can empower people and improve digital experiences. 
 
